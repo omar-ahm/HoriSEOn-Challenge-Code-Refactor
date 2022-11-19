@@ -1,4 +1,4 @@
-HTML CSS Git Challenge: Code Refactor
+# HTML CSS Git Challenge: Code Refactor
 
 ## Description
 
@@ -9,20 +9,37 @@ The CSS files was then analysed and refactored to conform to improvements in bas
 
 ## Project
 
-- Ensure semantic HTML elements are incorporated throughout the entire document.
-- Ensure the HTML document follows a locigal structure independant of styling and positioning.
-- Incorporate relevant assessibility attributes such as "alt" tags for images and icons.
-- Refactor existing code with heading tags in sequential order.
-- Ensure the project has a concise and descriptive title.
-- Ensure all page links function correctly and link to appropriate sections
+1. Refactored the code base and incorporated semantic HTML elements throughout the entire document.
 
-Provide instructions and examples for use. Include screenshots as needed.
+- I used the below diagram and link to guide my process.
 
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
+![Semantic HTML guide](Assets/images/img_sem_elements.gif)
 
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+https://www.w3schools.com/html/html5_semantic_elements.asp
+
+2. Ensure the HTML document follows a locigal structure independant of styling and positioning.
+
+- I achieved this by analysing the document and applying relevant structure tags and also removing unecessary elements. 
+
+3. Incorporate relevant assessibility attributes such as "alt" tags for images and icons.
+
+- I acheieved this by scanning the document and applying ALT tags to all images and icons.
+
+4. Refactor existing code with heading tags in sequential order.
+
+- I acheived this by analysing the document to ensure all (h) tags were in sequential order from top to bottom.
+
+5. Ensure the project has a concise and descriptive title.
+
+- I decided to include the name or the company and also the nature of the business to make the titel concise and descriptive.
+
+5. Ensure all page links function correctly and link to appropriate sections
+
+- I checked and updated the existing nav menu links, in addition I also added a link to the company name to link back to the home page as this is common practise across all websites.
+
+Below is a screenshot of my final project
+
+![Digital agency team meeting](Assets/images/01-html-css-git-challenge-demo.png)
 
 ## Credits
 
@@ -31,7 +48,7 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
 - https://www.w3schools.com/html/html5_semantic_elements.asp
 - https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
-List your collaborators, if any, with links to their GitHub profiles.
+
 
 If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
 
@@ -39,26 +56,6 @@ If you followed tutorials, include links to those here as well.
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+Please refer to the LICENSE in the repo.
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
-<!-- 
-## Badges
-
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
-
-## Features
-
-If your project has a lot of features, list them here.
-
-## How to Contribute
-
-If you created an application or package and would like other developers to contribute it, you can include guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own if you'd prefer.
-
-## Tests
-
-Go the extra mile and write tests for your application. Then provide examples on how to run them here. -->
