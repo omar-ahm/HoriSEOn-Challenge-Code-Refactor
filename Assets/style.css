@@ -50,6 +50,7 @@ p {
     font-size: 16px;
 }
 
+/* Main background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -131,7 +132,7 @@ p {
     font-size: 36px;
 }
 
-
+/* Footer section */
 .footer {
     padding: 30px;
     clear: both;
@@ -139,6 +140,6 @@ p {
     text-align: center;
 }
 
-.footer h2 {
+.footer h4 {
     font-size: 20px;
 }

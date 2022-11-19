@@ -7,7 +7,7 @@ The main objective of this project was to anyalse and refactor an existing code 
 The CSS files was then analysed and refactored to conform to improvements in basic code and removing unecessary or duplicated elements. 
 
 
-## Task criteria
+## Project
 
 - Ensure semantic HTML elements are incorporated throughout the entire document.
 - Ensure the HTML document follows a locigal structure independant of styling and positioning.
@@ -25,6 +25,11 @@ To add a screenshot, create an `assets/images` folder in your repository and upl
     ```
 
 ## Credits
+
+- https://www.w3schools.com/tags/att_img_alt.asp
+- https://stackoverflow.com/questions/19175668/shall-i-use-section-tags-inside-aside
+- https://www.w3schools.com/html/html5_semantic_elements.asp
+- https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
 
 List your collaborators, if any, with links to their GitHub profiles.
 
