@@ -59,23 +59,27 @@ p {
     background-position: center;
 }
 
+/* Layout for 1st and 3rd (article) sections */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
+/* Layout for 2nd (article) section section */
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
+/* Css layout box model */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-aside {
+/* Aside benefits styling  */
+.benefits {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -84,26 +88,27 @@ aside {
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #2589bd;
+    color: #ffffff;
 }
-/* Aside main container section */
-aside {
+
+/* Aside <p> styling  */
+.benefits p {
     margin-bottom: 32px;
-    color: #ffffff; 
+    
 }
 
 /* Aside h3 title styling */
-aside h3 {
+.benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-/* Aside image styling  */
-aside img {
+/* Aside icon styling */
+.benefits img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
-
 
 /* Services article element main section styling consolidated */
 .services {
@@ -120,7 +125,7 @@ aside img {
     max-height: 200px;
 }
 
-/* Services article element h2 title section styling consolidated */
+/* Services article element h2 section styling consolidated */
 .service h2 {
     margin-bottom: 20px;
     font-size: 36px;
