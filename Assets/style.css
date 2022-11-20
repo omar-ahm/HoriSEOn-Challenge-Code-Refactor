@@ -17,7 +17,7 @@ header {
     color: #ffffff;
 }
 
-/* h1 title styling  */
+/* This sections is for h1 title styling  */
 header h1 {
     display: inline-block;
     font-size: 48px;
@@ -27,7 +27,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Header navigation styling */
+/* This sections contains Header navigation styling */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -49,7 +49,7 @@ p {
     font-size: 16px;
 }
 
-/* Main background image */
+/* This is the styling section for the Main background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -71,14 +71,14 @@ p {
     margin-left: 25px;
 }
 
-/* Css layout box model */
+/* This is the main Css layout box model */
 .content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-/* Aside benefits styling  */
+/* This section is for the <Aside> benefits styling  */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -138,7 +138,7 @@ p {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 }
-
+/* Footer font size styling  */
 .footer h4 {
     font-size: 20px;
 }

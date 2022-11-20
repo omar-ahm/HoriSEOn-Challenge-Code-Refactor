@@ -37,7 +37,7 @@ https://www.w3schools.com/html/html5_semantic_elements.asp
 
 - I checked and updated the existing nav menu links, in addition I also added a link to the company name to link back to the home page as this is common practise across all websites.
 
-Below is a screenshot of my final project
+Below is a screenshot of my final project which can also be viewed live at the following URL: https://omar-ahm.github.io/HoriSEOn-Challenge-Code-Refactor/
 
 ![Digital agency team meeting](Assets/images/01-html-css-git-challenge-demo.png)
 
