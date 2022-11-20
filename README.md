@@ -41,6 +41,7 @@ Below is a screenshot of my final project which can also be viewed live at the f
 
 ![Digital agency team meeting](Assets/images/01-html-css-git-challenge-demo.png)
 
+In order to add an alt attribute to the background image I search google and came across a solution to use a title tag instead from the following forum site https://stackoverflow.com/questions/4216035/css-background-image-alt-attribute I decided to opt for a title tag as "alt" tags are not allowed on div elements.
 ## Credits
 
 - https://www.w3schools.com/tags/att_img_alt.asp
