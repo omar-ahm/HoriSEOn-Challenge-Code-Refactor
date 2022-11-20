@@ -4,7 +4,7 @@
 
 The main objective of this project was to anyalse and refactor an existing code base to incorporates semantic HTML, a logical HTML structure that demonstrates improved accessability attributes for images and icon.
 
-The CSS files was then analysed and refactored to conform to improvements in basic code and removing unecessary or duplicated elements. 
+Analyse the CSS file and refactor to conform to improvements in basic code and removing unecessary or duplicated elements. 
 
 
 ## Project
