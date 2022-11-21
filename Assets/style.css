@@ -27,13 +27,18 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* This sections contains Header navigation styling */
-nav {
+/* Navigation & unordered list styling */
+nav  {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
+}
+
+nav ul li {
+    list-style-type: none;
+    display: inline-block;
 }
 
 /* Header navigation menu link styling */
