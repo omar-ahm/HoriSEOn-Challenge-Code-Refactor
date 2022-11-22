@@ -28,7 +28,7 @@ header h1 .seo {
 }
 
 /* Navigation & unordered list styling */
-nav  {
+ header nav  {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -36,18 +36,19 @@ nav  {
     font-size: 20px;
 }
 
-nav ul li {
+header nav ul {
     list-style-type: none;
+   
+}
+ header nav ul li {
     display: inline-block;
+    margin-left: 25px;
 }
 
 /* Header navigation menu link styling */
 a {
     color: #ffffff;
     text-decoration: none;
-    list-style-type: none;
-    display: inline-block;
-    margin-left: 25px;
 }
 /* Article/section <p> styling */
 p {
